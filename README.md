@@ -1,4 +1,5 @@
 # SNOTE!
+  Version 0.0.1-beta
 ### Get Started
   - Import a Boostrap and Jquery to header and SNOTE :
     - ```
@@ -26,7 +27,7 @@
                 ROUTE:'<<Upload Image Url>>', //laravel (Route), PHP (URL)
                 FONT:['Font1','Font2',...],  //More Font
             }
-- Php return :
+- Data image return :
     - ```
         Example:
         <<your code upload image here>>
