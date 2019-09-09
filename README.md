@@ -14,7 +14,7 @@ import file SNOTE:
   - Import Script :
   - ```
     window.sNote = {
-                ROUTE:'Upload Image Url',
+                ROUTE:'<<Upload Image Url>>',
                 FONT:['Font1','Font2',...], //More Font
             }
 
