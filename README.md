@@ -1,5 +1,10 @@
 # SNOTE!
   Version 0.0.1-beta
+### Introduce
+  - SNOTE store image as path with image name in database.
+  - Faster than store image as Base64 (100%)
+  - Easy to install and Use
+  - Get Started Now.
 ### Get Started
   - Import a Boostrap and Jquery to header and SNOTE :
     - ```
@@ -34,5 +39,4 @@
         $data['image'] = <<image upload name>>
         $data['image_path'] = <<image upload path>>
         return $data;
-  
-  ![](https://helpx.adobe.com/ee/experience-manager/6-3/sites/classic-ui-authoring/using/classic-page-author-rich-text-editor/_jcr_content/main-pars/image_1.img.png/CQ55_RTE_BasicChars.png)
+
