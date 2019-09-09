@@ -32,7 +32,7 @@
                 ROUTE:'<<Upload Image Url>>', //laravel (Route), PHP (URL)
                 FONT:['Font1','Font2',...],  //More Font
             }
-- Data image return :
+- Data image return in php :
     - ```
         Example:
         <<your code upload image here>>
