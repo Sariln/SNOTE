@@ -13,8 +13,8 @@
     <script src="https:/SNOTE/s-note.js"></script>
 
 ### Usage
-  - Installation:
-  - add ID << s-noted >> to your text Box
+   - Installation:
+   - add ID << s-noted >> to your text Box
    - ```
     <input type="text" id="s-noted">
     or
