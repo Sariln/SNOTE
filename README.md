@@ -15,10 +15,10 @@
 ### Usage
    - Installation:
    - add ID << s-noted >> to your text Box :
-   - ``` <input type="text" id="s-noted">
+   - ```
+    <input type="text" id="s-noted">
     or
     <textarea id="s-noted"></textarea>
-   
   
   - Import Script :
   - ```
