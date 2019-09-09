@@ -1,6 +1,7 @@
 # SNOTE!
   Version 0.0.1-beta
 ### Introduce
+  - SNOTE is Text Editor for Website Developer.
   - SNOTE store image as path with image name in database.
   - Faster than store image as Base64 (100%)
   - Easy to install and Use
