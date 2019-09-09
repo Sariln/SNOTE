@@ -9,9 +9,9 @@
 - import file SNOTE:
     - ```
     
-      <link rel="stylesheet" href="https:/SNOTE/s-note.css">
+      <link rel="stylesheet" href="/SNOTE/s-note.css">
     
-      <script src="https:/SNOTE/s-note.js"></script>
+      <script src="/SNOTE/s-note.js"></script>
 
 ### Usage
    - Installation:
