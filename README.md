@@ -34,3 +34,5 @@
         $data['image'] = <<image upload name>>
         $data['image_path'] = <<image upload path>>
         return $data;
+  
+  ![](https://helpx.adobe.com/ee/experience-manager/6-3/sites/classic-ui-authoring/using/classic-page-author-rich-text-editor/_jcr_content/main-pars/image_1.img.png/CQ55_RTE_BasicChars.png)
