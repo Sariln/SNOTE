@@ -1,5 +1,5 @@
 # SNOTE!
-### Usage
+### Get Start
   - Import a Boostrap and Jquery to header and SNOTE :
 - ```
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -12,7 +12,15 @@
     
     <script src="https:/SNOTE/s-note.js"></script>
 
-
+### Usage
+  - Installation:
+  - add ID << s-noted >> to your text Box
+   - ```
+    <input type="text" id="s-noted">
+    or
+    <textarea id="s-noted"></textarea>
+   
+  
   - Import Script :
   - ```
     window.sNote = {
