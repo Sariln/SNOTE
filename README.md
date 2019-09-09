@@ -44,5 +44,5 @@
 ### Bug   
 - Bug I will fix later :
     - ```
-        Video can't add place your focus.
-        Not deleted your last image your stored.
+        Video can't add on place your focus.
+        Not deleted your last image your stored after your deleted from Text Editor.
