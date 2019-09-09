@@ -15,15 +15,21 @@
 ### Usage
    - Installation:
    - add ID << s-noted >> to your text Box :
-   - ```
-    <input type="text" id="s-noted">
-    or
-    <textarea id="s-noted"></textarea>
-  
-  - Import Script :
+     - ``` 
+         <input type="text" id="s-noted">
+         or
+         <textarea id="s-noted"></textarea>
+### Image Upload   
+- Import  Script :
   - ```
     window.sNote = {
-                ROUTE:'<<Upload Image Url>>',
-                FONT:['Font1','Font2',...], //More Font
+                ROUTE:'<<Upload Image Url>>', //laravel (Route), PHP (URL)
+                FONT:['Font1','Font2',...],  //More Font
             }
-
+- Php return :
+    - ```
+        Example:
+        <<your code upload image here>>
+        $data['image'] = <<image upload name>>
+        $data['image_path'] = <<image upload path>>
+        return $data;
