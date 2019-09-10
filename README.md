@@ -45,4 +45,4 @@
 - Bug I will fix later :
     - ```
         Video can't add on place your focus.
-        Not deleted your image your stored after your deleted from Text Editor.
+        Not deleted your image stored before when your deleted from Text Editor.
