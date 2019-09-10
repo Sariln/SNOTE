@@ -31,7 +31,6 @@
   - ```
     window.sNote = {
                 ROUTE:'<<Upload Image Url>>', //laravel (Route), PHP (URL)
-                FONT:['Font1','Font2',...],  //More Font
             }
 - Data image return in php :
     - ```
@@ -40,6 +39,12 @@
         $data['image'] = <<image upload name>>
         $data['image_path'] = <<image upload path>>
         return $data;
+### More Font   
+- Import  Script :
+  - ```
+    window.sNote = {
+                FONT:['Font1','Font2',...],  //More Font
+            }
 
 ### Bug   
 - Bug I will fix later :
