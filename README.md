@@ -43,6 +43,7 @@
 - Import  Script :
   - ```
     window.sNote = {
+                ........................................
                 FONT:['Font1','Font2',...],  //More Font
             }
 
