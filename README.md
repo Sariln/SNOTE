@@ -7,7 +7,7 @@
   - Easy to install and Use
   - Get Started Now.
 ### Get Started
-  - Import a Boostrap and Jquery to header :
+  - Import a Bootstrap and Jquery to header :
     - ```
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
